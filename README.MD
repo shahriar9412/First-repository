@@ -60,8 +60,8 @@ markdown link syntax:
 
 <!-- all link is here -->
 
-[googlelink]: http://www.google.com  
-[facebooklink]: http://www.facebook.com  
+[googlelink]: https://www.google.com  
+[facebooklink]: https://www.facebook.com  
 
 image link syntax:  
 
